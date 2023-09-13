@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aditya raj
+Skills: MERN Stack , git and github , Firebase , tailwind css and chakra ui , OOPS and DSA , c++
+Email: aytida.dev@gmail.com
+{{/user}}
